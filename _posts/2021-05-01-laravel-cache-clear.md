@@ -21,7 +21,7 @@ yada route sayfasında
 
 
  Route::get('test',function89{
-	Artisan::call('optimize:clear');
+    Artisan::call('optimize:clear');
  });
 
 {% endhighlight %}
