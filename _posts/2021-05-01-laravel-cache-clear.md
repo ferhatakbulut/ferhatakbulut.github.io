@@ -20,7 +20,7 @@ yada route sayfasında
 {% highlight yaml %}
 
 
- Route::get('test',function89{
+ Route::get('test',function(){
     Artisan::call('optimize:clear');
  });
 
