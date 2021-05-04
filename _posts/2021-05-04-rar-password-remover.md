@@ -14,7 +14,7 @@ Bu can sıkıcı durumu ortadan kaldırmak için
 
 {% highlight yaml %}
 *TÜRKÇE
-<br>
+
 Araçlar > Aşivleri Döünüştür > Sıkıştırma > Genel > Parolayı Ayarla 
  
 bölümünde parolayı boş bırakarak tamam diyoruz.
@@ -23,7 +23,7 @@ bölümünde parolayı boş bırakarak tamam diyoruz.
 {% highlight yaml %}
 
 *ingilizce
-<br>
+
 Tools > Convert Archives > Compression > General > Set Password > 
 
 password line leave blank and ok
