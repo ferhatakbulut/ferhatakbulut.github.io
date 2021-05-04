@@ -12,30 +12,20 @@ ortamında paylaşılan bir dosyanın rar şifresi konularak paylaşılmasına a
 Bu can sıkıcı durumu ortadan kaldırmak için 
 <br>
 
+{% highlight yaml %}
 **TÜRKÇE**
+<br>
 Araçlar > Aşivleri Döünüştür > Sıkıştırma > Genel > Parolayı Ayarla 
  
 bölümünde parolayı boş bırakarak tamam diyoruz.
+{% endhighlight %}
+
+{% highlight yaml %}
 
 **ingilizce**
+<br>
 Tools > Convert Archives > Compression > General > Set Password > 
 
 password line leave blank and ok
-
-{% highlight yaml %}
-
-cmd ekranında 
-  >>>php artisan optimize:cleare  
-
-{% endhighlight %}
-
-yada route sayfasında
-ve daha sonra **/test** link adresine giderek komutu çalıştırmız oluyoruz.
-{% highlight yaml %}
-
-
- Route::get('test',function(){
-    Artisan::call('optimize:clear');
- });
 
 {% endhighlight %}
