@@ -13,7 +13,7 @@ Bu can sıkıcı durumu ortadan kaldırmak için
 <br>
 
 {% highlight yaml %}
-**TÜRKÇE**
+*TÜRKÇE
 <br>
 Araçlar > Aşivleri Döünüştür > Sıkıştırma > Genel > Parolayı Ayarla 
  
@@ -22,7 +22,7 @@ bölümünde parolayı boş bırakarak tamam diyoruz.
 
 {% highlight yaml %}
 
-**ingilizce**
+*ingilizce
 <br>
 Tools > Convert Archives > Compression > General > Set Password > 
 
