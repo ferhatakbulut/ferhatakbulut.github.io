@@ -9,9 +9,9 @@ description: Windows dosya sisteminde, klasördeki dosya,belge vb tarih,ad vb kr
 Klasörler içerisinde doslayaların gruplanmasını canımı çok sıkan bir işlemdi. Bunu iptal etmek çok kolay
 Sadece yapacağınız, aşşağıdaki resimdeki gibi
 
-**Gruplamadırma Ölçütü >>> (Yok)** seçilirse, işlem iptal olur.
+**Gruplamadırma Ölçütü >> (Yok)** seçilirse, işlem iptal olur.
 
-<img src="https://raw.githubusercontent.com/ferhatakbulut/ferhatakbulut.github.io/main/image/ol.png">
+<img src="https://raw.githubusercontent.com/ferhatakbulut/ferhatakbulut.github.io/main/image/ol1.png">
 
 
 Kolay gelsin.
