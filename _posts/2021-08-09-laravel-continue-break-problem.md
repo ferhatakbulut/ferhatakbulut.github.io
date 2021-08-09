@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"
+title: continue targeting switch is equivalent to break. Did you mean to use continue 2
 categories: [genel, laravel, hata]
 tags: [laravel, programlama]
 description: Laravel' de yaşanan "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2" hatasının çözümü
