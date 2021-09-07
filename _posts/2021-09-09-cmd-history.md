@@ -3,7 +3,7 @@ layout: post
 title: cmd - komut satırı geçmişi
 categories: [genel, cmd, geçmiş, windows]
 tags: [cmd]
-description: cmd (komut satırı) geçmişini görmek
+fullview: true
 ---
 
 1-Komut satırı geçmişini görmek için ilk olarak klavyeden **F7** tuşunu kullanabiliriz.
