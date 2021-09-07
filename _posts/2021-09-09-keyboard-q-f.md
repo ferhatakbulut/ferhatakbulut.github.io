@@ -1,6 +1,6 @@
 ---
 layout: post
-title: cmd - komut satırı geçmişi
+title: Bilgisayar Açılırken Default Klavye Ayarı Q klavye - F klavye
 categories: [genel, klavye, bilgisayar, windows]
 tags: [klavye, f, q]
 description: Bilgisayar açılıştaki klavye ayarı (F klavye yada Q klavye)
