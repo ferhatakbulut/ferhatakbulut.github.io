@@ -11,7 +11,7 @@ komut satırına
 
 {% highlight yaml %}
 
-    >>> net share
+    >>>net share
 
 {% endhighlight %}
 
