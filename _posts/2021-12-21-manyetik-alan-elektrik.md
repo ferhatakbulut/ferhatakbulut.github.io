@@ -12,7 +12,7 @@ Demir çubuk etrafına sarılan her tel üzerinde elektrik geçerse demir çubuk
 
 
 
-<img src="https://raw.githubusercontent.com/ferhatakbulut/ferhatakbulut.github.io/main/image/elektrik.png">
+<img src="https://raw.githubusercontent.com/ferhatakbulut/ferhatakbulut.github.io/main/image/elektrik1.png">
 
 
 Kolay gelsin.
