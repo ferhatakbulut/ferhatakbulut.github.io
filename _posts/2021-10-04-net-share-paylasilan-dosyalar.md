@@ -11,7 +11,7 @@ komut satırına
 
 {% highlight yaml %}
 
-    >>> net share 
+  >>> net share 
 
 {% endhighlight %}
 
@@ -21,7 +21,7 @@ Paylaşılan dosyaları/klasörleri silmek için komut satırından
 
 {% highlight yaml %}
 
-    >>> net share klasorAdi /delete
+  >>> net share klasorAdi /delete
 
 {% endhighlight %}
 
@@ -31,8 +31,8 @@ yazmamız yeterlidir.
 
 {% highlight yaml %}
 
-    >>> net share d$ /delete                 // d diskinin tamamını paylaşımını siliyoruz
-    >>> net share D:\Resimler /delete        // d diskinde resimler klasörünün paylaşımını siliyoruz
+  >>> net share d$ /delete                 // d diskinin tamamını paylaşımını siliyoruz
+  >>> net share D:\Resimler /delete        // d diskinde resimler klasörünün paylaşımını siliyoruz
 
 {% endhighlight %}
 
