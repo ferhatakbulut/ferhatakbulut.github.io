@@ -11,7 +11,7 @@ komut satırına
 
 {% highlight yaml %}
 
-    >>>net share
+    >>>net share 
 
 {% endhighlight %}
 
@@ -31,7 +31,7 @@ yazmamız yeterlidir.
 
 {% highlight yaml %}
 
-    >>>net share d$ /delete                 //d diskinin tamamı paylaşılıyor ve paylaşımı siliyoruz
+    >>>net share d$ /delete                 //d diskinin tamamınu paylaşımını siliyoruz
     >>>net share D:\Resimler /delete        // d diskinde resimler klasörünün paylaşımını siliyoruz
 
 {% endhighlight %}
