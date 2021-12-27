@@ -31,7 +31,7 @@ yazmamız yeterlidir.
 
 {% highlight yaml %}
 
-    >>>net share d$ /delete                 //d diskinin tamamınu paylaşımını siliyoruz
+    >>>net share d$ /delete                 // d diskinin tamamınu paylaşımını siliyoruz
     >>>net share D:\Resimler /delete        // d diskinde resimler klasörünün paylaşımını siliyoruz
 
 {% endhighlight %}
