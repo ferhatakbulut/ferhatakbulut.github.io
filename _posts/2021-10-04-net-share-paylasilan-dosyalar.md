@@ -6,7 +6,7 @@ tags: [paylasim, netshare]
 fullview: true
 ---
 
-Windows işletim sistemi için ağ üzerinde paylaşılan dosyları/klasörleri görmek için
+Windows işletim sistemi için ağ üzerinde paylaşılan dosyaları/klasörleri görmek için
 komut satırına
 
 {% highlight yaml %}
