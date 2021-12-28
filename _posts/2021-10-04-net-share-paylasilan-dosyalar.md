@@ -9,7 +9,7 @@ fullview: true
 Windows işletim sistemi için ağ üzerinde paylaşılan dosyaları/klasörleri görmek için
 komut satırına
 
-{% highlight ruby %}
+{% highlight python %}
     >>>net share
 {% endhighlight %}
 
@@ -18,7 +18,7 @@ yazarak ekranda paylaşılan ögeleri görebiliriz.
 
 Paylaşılan dosyaları/klasörleri silmek için komut satırından
 
-{% highlight ruby %}
+{% highlight python %}
 
     >>>net share klasorAdi /delete
 
@@ -28,7 +28,7 @@ yazmamız yeterlidir.
 
 Örnek olarak
 
-{% highlight ruby %}
+{% highlight python %}
 
     >>>net share $d /delete             //d diskinin tamamını paylaşımdan siliyoruz
     >>>net share D:\Resimler /delete    //d diskinde resimler klasörünü paylaşımdan siliyoruz
