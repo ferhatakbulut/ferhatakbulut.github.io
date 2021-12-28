@@ -13,18 +13,12 @@ komut satırına
     >>>net share
 {% endhighlight %}
 
-{% highlight yaml %}
-
-    >>>net share  
-
-{% endhighlight %}
-
 
 yazarak ekranda paylaşılan ögeleri görebiliriz.
 
 Paylaşılan dosyaları/klasörleri silmek için komut satırından
 
-{% highlight yaml %}
+{% highlight ruby %}
 
     >>>net share klasorAdi /delete
 
@@ -34,10 +28,10 @@ yazmamız yeterlidir.
 
 Örnek olarak
 
-{% highlight yaml %}
+{% highlight ruby %}
 
     >>>net share $d /delete             //d diskinin tamamını paylaşımdan siliyoruz
-    >>>net share D:}Resimler /delete    //d diskinde resimler klasörünü paylaşımdan siliyoruz
+    >>>net share D:\Resimler /delete    //d diskinde resimler klasörünü paylaşımdan siliyoruz
 
 {% endhighlight %}
 
