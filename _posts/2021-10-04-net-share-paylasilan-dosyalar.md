@@ -9,6 +9,10 @@ fullview: true
 Windows işletim sistemi için ağ üzerinde paylaşılan dosyaları/klasörleri görmek için
 komut satırına
 
+{% highlight ruby %}
+    >>>net share
+{% endhighlight %}
+
 {% highlight yaml %}
 
     >>>net share  
