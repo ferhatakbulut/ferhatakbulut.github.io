@@ -1,8 +1,8 @@
 ---
 layout: post
-title: php, xampp bazı ayarlar
-categories: [genel, xampp, php]
-tags: [php, xampp]
+title: Laravel Cache Temizleme
+categories: [genel, xampp, php, Laravel]
+tags: [laravel, cache]
 fullview: true
 ---
 
