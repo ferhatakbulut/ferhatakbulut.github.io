@@ -1,18 +1,31 @@
 ---
 layout: post
-title: Manyetik alan ile elektrik oluşturma (mıknatıs, tel, demir çubuk)
-categories: [genel, elektrik]
-tags: [manyetik alan, ]
-description: Demir çubuk, tel ve mıknatıs ile elektrik üretme.
+title: php, xampp bazı ayarlar
+categories: [genel, xampp, php]
+tags: [php, xampp]
+fullview: true
 ---
 
-Devremizi aşağıdaki resimdeki gibi kuruyoruz. Gerisini manyetik alan kendisi oluşturuyor. 
+cmd ekranından laravel projemizin olduğu klasöre gidiyoruz.
+Sonra aşağıdaki komutları giriyoruz.
 
-Demir çubuk etrafına sarılan her tel üzerinde elektrik geçerse demir çubuk etrafında manyetik alan oluştur.
+{% highlight yaml %}
 
+    
+    php artisan config:cache
+    php artisan config:clear
+    php artisan config:cache
+    php artisan cache:clear
+    php artisan route:clear
+    php artisan route:cache
+    php artisan view:clear
+    php artisan view:cache
+    php artisan config:cache
+    php artisan optimize:clear 
 
+{% endhighlight %}
 
-<img src="https://raw.githubusercontent.com/ferhatakbulut/ferhatakbulut.github.io/main/image/elektrik1.png">
+yazmamız yeterlidir.
 
 
 Kolay gelsin.

@@ -6,24 +6,27 @@ tags: [php, xampp]
 fullview: true
 ---
 
-cmd ekranından laravel projemizin olduğu klasöre gidiyoruz.
-Sonra aşağıdaki komutları giriyoruz.
+xampp ve php için bazı ayarlar
+
+kod bloğu içerisinde
 
 {% highlight yaml %}
 
     
-    php artisan config:cache
-    php artisan config:clear
-    php artisan config:cache
-    php artisan cache:clear
-    php artisan route:clear
-    php artisan route:cache
-    php artisan view:clear
-    php artisan view:cache
-    php artisan config:cache
-    php artisan optimize:clear 
+    ini_set('max_execution_time', '300');  //işlem süresi ayarlama
+    ini_set('memory_limit', -1);           //maximum hafıza 
 
 {% endhighlight %}
+
+maximun dosya yükleme işlemi için **php.ini** dosyası içerisindeki
+
+{% highlight yaml %}
+
+    upload_max_filesize = 10M
+    post_max_size = 10M
+
+{% endhighlight %}
+
 
 yazmamız yeterlidir.
 
