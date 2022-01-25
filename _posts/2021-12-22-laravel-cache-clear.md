@@ -6,7 +6,7 @@ tags: [laravel, cache]
 fullview: true
 ---
 
-cmd ekranından laravel projemizin olduğu klasöre gidiyoruz.
+cmd komut ekranından laravel projemizin olduğu klasöre gidiyoruz.
 Sonra aşağıdaki komutları giriyoruz.
 
 {% highlight yaml %}
@@ -26,7 +26,6 @@ Sonra aşağıdaki komutları giriyoruz.
 {% endhighlight %}
 
 yazmamız yeterlidir.
-
 
 Kolay gelsin.
 
