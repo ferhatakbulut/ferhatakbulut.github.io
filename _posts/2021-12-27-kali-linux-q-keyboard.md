@@ -1,6 +1,6 @@
 ---
 layout: post
-title: kali linux Q Klavye - Kali Linux Q Keyboard
+title: Kali Linux Q Klavye - Kali Linux Q Keyboard
 categories: [linux, kali]
 tags: [q, keyboard, klavye]
 description: Kali Linux klavye ayarını Q klavye olarak ayarlama işlemi
