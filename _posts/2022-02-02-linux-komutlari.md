@@ -27,6 +27,12 @@ description: Linux Bazı Terminal Komutları ve Açıklamaları
 	<td>:</td>
 	<td>Terminal Ekranını Temizle</td>
 	</tr>
+
+	<tr>
+	<td>netdiscover</td>
+	<td>:</td>
+	<td>Ağa bağlı olan cihazları tara (ip adres, mac adres dahil)</td>
+	</tr>
 </table>
 
 Kolay gelsin.
