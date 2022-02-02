@@ -7,7 +7,7 @@ description: Linux Bazı Terminal Komutları ve Açıklamaları
 ---
 
 
-<table boder='1'>
+<table border='1'>
 	<tr>
 	<th>Komut</th>
 	<th></th>
