@@ -31,12 +31,6 @@ description: Linux Bazı Terminal Komutları ve Açıklamaları
 	</tr>
 </table>
 
-<style>
-	tr td
-	{
-		padding:0 10px 0 10px;
-	}
-</style>
 
 Kolay gelsin.
 
