@@ -6,12 +6,8 @@ tags: [terminal, komutlar]
 description: Linux Bazı Terminal Komutları ve Açıklamaları
 ---
 
-{% highlight yaml %}
 
-    ifconfig ->
-
-{% endhighlight %}
-<table>
+<table boder='1'>
 	<tr>
 	<th>Komut</th>
 	<th></th>
