@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux Bazı Terminal Komutları
+title: Bazı Cmd Komutları
 categories: [windows, cmd]
 tags: [cmd, komutlar]
 description: Bazı Cmd Komutları ve Açıklamaları
