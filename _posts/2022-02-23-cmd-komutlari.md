@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bazı Cmd Komutları
+title: Linux Bazı Terminal Komutları
 categories: [windows, cmd]
 tags: [cmd, komutlar]
 description: Bazı Cmd Komutları ve Açıklamaları
@@ -31,7 +31,7 @@ description: Bazı Cmd Komutları ve Açıklamaları
 	</tr>
 
 	<tr>
-	<td>msg /SERVER:192.168.1.22 * /TIME:60 "selmalar"</td>
+	<td>msg /SERVER:192.168.1.22 * /TIME:60 "selamlar"</td>
 	<td>:</td>
 	<td>İlgli ip deki bilgisayarı uzaktan mesaj gönderir</td>
 	</tr>
