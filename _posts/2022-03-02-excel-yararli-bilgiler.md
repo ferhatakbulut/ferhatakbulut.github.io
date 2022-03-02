@@ -5,7 +5,7 @@ categories: [windows, excel]
 tags: [excel]
 description: Bazı Excel Yararlı Bilgiler
 ---
-
+1- Tarih girerken otomatik olarak sayılar arasına nokta ekleme işlemi
 
 **Hücre Biçimlendir > Sayı > İsteğe Uyarlanmış** sekmelerinde tür kısmına;
 
