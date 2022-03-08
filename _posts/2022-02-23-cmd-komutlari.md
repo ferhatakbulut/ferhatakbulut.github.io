@@ -38,5 +38,16 @@ description: Bazı Cmd Komutları ve Açıklamaları
 </table>
 
 
+<br>
+
+Çalıştır geçmişini temizleme komutu
+
+{% highlight yaml %}
+
+   reg delete HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU /va /f
+
+{% endhighlight %}
+
+
 Kolay gelsin.
 
