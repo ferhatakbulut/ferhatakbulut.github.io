@@ -12,8 +12,8 @@ Html yani web sayfamızda metrekare m² ve metreküp m³ birimlerini kullanmak i
 
 {% highlight yaml %}
 
-    metrekare m² -> **alt** tuşuna basılı tutarak **0178**
-    metreküp  m³ -> **alt** tuşuna basılı tutarak **0179**
+    metrekare m² -> alt tuşuna basılı tutarak 0178
+    metreküp  m³ -> alt tuşuna basılı tutarak 0179
 
 {% endhighlight %}
 
