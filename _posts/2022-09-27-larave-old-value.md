@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Laravel de post işlemi hatalı dönerken inputlara girilen değerlerin silinmemesi
-categories: [Genel, Html, Php, Laravel]
+categories: [Genel,Html,Php,Laravel]
 tags: [old,value]
 fullview: true
 ---

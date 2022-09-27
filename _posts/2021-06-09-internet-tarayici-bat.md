@@ -1,8 +1,8 @@
 ---
 layout: post
 title: bat dosyası ile web sayfası açma
-categories: [Genel, Bat, İpucu]
-tags: [chrome, edge, bat, kısayol]
+categories: [Genel,Bat,Ipucu]
+tags: [chrome,edge,bat,kısayol]
 description: Sürekli kullandığınız web sitelerini tek tek el ile açmak yerine bat dosyası ile tek seferde çalıştırabilirsiniz.
 ---
 

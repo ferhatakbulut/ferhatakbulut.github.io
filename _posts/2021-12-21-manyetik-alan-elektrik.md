@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Manyetik alan ile elektrik oluşturma
-categories: [Genel, Elektrik]
+categories: [Genel,Elektrik]
 tags: [manyetik alan]
 description: Demir çubuk, tel ve mıknatıs ile elektrik üretme.
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bilgisayar Açılırken Default Klavye Ayarı Q klavye - F klavye
-categories: [Genel, Klavye, Bilgisayar, Windows]
-tags: [klavye, f, q]
+categories: [Genel,Klavye,Bilgisayar,Windows]
+tags: [klavye,f,q]
 description: Bilgisayar açılıştaki klavye ayarı (F klavye yada Q klavye)
 ---
 

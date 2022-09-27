@@ -1,7 +1,7 @@
 ---
 layout: post
 title: cmd - komut satırı geçmişi
-categories: [Genel, Cmd, Geçmiş, Windows]
+categories: [Genel,Cmd,Geçmiş,Windows]
 tags: [cmd]
 fullview: true
 ---

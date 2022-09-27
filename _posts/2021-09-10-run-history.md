@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bilgisayar çalıştır geçmişi
-categories: [Genel, Bilgisayar, Windows]
-tags: [çalıştır, run, geçmiş, history]
+categories: [Genel,Bilgisayar,Windows]
+tags: [çalıştır,run,geçmiş,history]
 description: Bilgisayar çalıştır geçmişini silmek
 ---
 

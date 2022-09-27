@@ -1,8 +1,8 @@
 ---
 layout: post
 title: apache ve mysql hizmetlere ekleme
-categories: [Genel, Xampp, Apache, Mysql]
-tags: [apache, mysql]
+categories: [Genel,Xampp,Apache,Mysql]
+tags: [apache,mysql]
 description: xampp yada diğer php serveler için apache ve mysql yapılarını hizmetlere ekleme
 ---
 

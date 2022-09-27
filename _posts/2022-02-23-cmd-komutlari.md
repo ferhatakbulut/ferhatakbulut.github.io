@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bazı Cmd Komutları
-categories: [Windows, Cmd]
-tags: [cmd, komutlar]
+categories: [Windows,Cmd]
+tags: [cmd,komutlar]
 description: Bazı Cmd Komutları ve Açıklamaları
 ---
 

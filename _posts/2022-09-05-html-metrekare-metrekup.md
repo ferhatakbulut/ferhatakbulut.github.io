@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HTML metrekare m² ve metreküp m³ yazılması
-categories: [Genel, Html]
+categories: [Genel,Html]
 tags: [genel]
 fullview: true
 ---
