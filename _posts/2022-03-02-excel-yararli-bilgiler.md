@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Excel Yararlı Bilgiler
-categories: [windows, excel]
+categories: [Windows, Excel]
 tags: [excel]
 description: Bazı Excel Yararlı Bilgiler
 ---

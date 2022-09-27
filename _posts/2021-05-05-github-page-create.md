@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Github kullanarak ücretsiz web sitesi yayınlama
-categories: [genel, github]
+categories: [Genel, Github]
 tags: [github, githubpage,page]
 description: Github Page kullanarak internet ortamında web site yayınlama.
 ---

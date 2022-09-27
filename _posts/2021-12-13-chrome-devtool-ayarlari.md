@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome devtool dil ayarları
-categories: [genel, chrome, devtool]
+categories: [Genel, Chrome, Devtool]
 tags: [chrome, dil]
 description: chrome da sık sık kullandığımız devtool (incele) kısmının dil ayarları
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linux Bazı Terminal Komutları
-categories: [linux]
+categories: [Linux]
 tags: [terminal, komutlar]
 description: Linux Bazı Terminal Komutları ve Açıklamaları
 ---

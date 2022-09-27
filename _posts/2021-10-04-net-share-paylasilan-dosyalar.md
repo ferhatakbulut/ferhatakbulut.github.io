@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ağ üzerinde paylaşılan dosyalar
-categories: [cmd]
+categories: [Cmd]
 tags: [paylasim, netshare]
 fullview: true
 ---

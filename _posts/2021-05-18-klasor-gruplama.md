@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows klasör gruplama veya gruplamayı iptal etme
-categories: [genel, windows]
+categories: [Genel, Windows]
 tags: [klasör, gruplama]
 description: Windows dosya sisteminde, klasördeki dosya,belge vb tarih,ad vb kriterlere göre gruplanması veya bunun iptal edilmesi
 ---

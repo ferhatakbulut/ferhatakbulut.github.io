@@ -1,7 +1,7 @@
 ---
 layout: post
 title: php, xampp bazı ayarlar
-categories: [genel, xampp, php]
+categories: [Genel, Xampp, Php]
 tags: [php, xampp]
 fullview: true
 ---

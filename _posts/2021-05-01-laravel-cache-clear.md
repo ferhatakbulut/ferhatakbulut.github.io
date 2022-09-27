@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Larvel cache clear (laravel tüm cache temizleme) 
-categories: [laravel, programming]
+categories: [Laravel, Programming]
 tags: [cache,clear]
 fullview: true
 ---

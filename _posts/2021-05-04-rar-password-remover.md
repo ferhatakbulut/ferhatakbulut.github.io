@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rar parolası kaldırma (rar password remove) 
-categories: [genel, çözüm]
+categories: [Genel, Çözüm]
 tags: [rar, şifre]
 fullview: true
 ---

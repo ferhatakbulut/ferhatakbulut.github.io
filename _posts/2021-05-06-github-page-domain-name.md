@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Github page özel alan adına yönlendirme (Github page domain name configuration)
-categories: [genel, github]
+categories: [Genel, Github]
 tags: [github, githubpage,page, domainname]
 description: Github Page aldığımız özel domain adresine yönlendirme
 ---

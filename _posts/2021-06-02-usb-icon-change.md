@@ -1,7 +1,7 @@
 ---
 layout: post
 title: USB icon değiştirme (USB icon change)
-categories: [genel, usb]
+categories: [Genel, Usb]
 tags: [icon, usb]
 description: Kullandığınız USB nin iconunu değiştirebilirsiniz. İstediğiniz bir resim atayabilirsiniz.
 ---
