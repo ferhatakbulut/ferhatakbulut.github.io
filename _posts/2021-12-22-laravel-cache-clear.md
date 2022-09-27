@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Laravel Cache Temizleme
-categories: [Genel, Xampp, Php, Laravel]
+categories: [Genel, Xampp, Php,Laravel]
 tags: [laravel, cache]
 fullview: true
 ---
