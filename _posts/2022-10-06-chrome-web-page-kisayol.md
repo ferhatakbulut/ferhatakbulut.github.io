@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Chrome ile bir web sitesini masaüstüne sanki masaüstü uygulaması gibi kısayol oluşturma
+title: Web sitesini masaüstü uygulaması gibi kısayol oluşturma
 categories: [Genel,Chrome,Kısayol,İpucu]
-tags: [ipucu,]
-description: Chrome ile bir web sitesini masaüstüne sanki masaüstü uygulaması gibi kısayol oluşturmak için aşağıdaki resimlerde belirtilen
-adımları takip etmeniz yeterlidir.
+tags: [ipucu]
+description: Chrome ile bir web sitesini  masaüstü uygulaması gibi kısayol oluşturmak
 ---
 
 Chrome ile bir web sitesini masaüstüne sanki masaüstü uygulaması gibi kısayol oluşturmak için aşağıdaki resimlerde belirtilen
