@@ -24,6 +24,7 @@ int g=2;
 
 {% endhighlight %}
 
+pinlerin segmentin hangi değerlerine atandığını göstermekdir.
 
 {% highlight yaml %}
 
