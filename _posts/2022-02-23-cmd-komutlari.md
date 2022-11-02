@@ -11,7 +11,9 @@ description: Bazı Cmd Komutları ve Açıklamaları
 
 {% highlight yaml %}
 
-   >> tree /f    -> Bulunduğu klasörün ağaç yapısını gösterir.
+   -> tree /f                          -> Bulunduğu klasörün ağaç yapısını gösterir.
+   -> taskkill /IM "explorer.exe" /F   -> explorer.exe kapat
+   -> start explorer.exe               -> explorer.exe başlat
 
 {% endhighlight %}
 
