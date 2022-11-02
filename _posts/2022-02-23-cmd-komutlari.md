@@ -14,6 +14,8 @@ description: Bazı Cmd Komutları ve Açıklamaları
    -> tree /f                          -> Bulunduğu klasörün ağaç yapısını gösterir.
    -> taskkill /IM "explorer.exe" /F   -> explorer.exe kapat
    -> start explorer.exe               -> explorer.exe başlat
+   -> taskkill /f /im chrome.exe       -> chrome.exe kapat 
+   -> pskill \\10.99.0.19 chrome.exe   -> uzak bilgisayar chrome.exe kapat
 
 {% endhighlight %}
 
