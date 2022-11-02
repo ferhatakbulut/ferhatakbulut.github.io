@@ -48,6 +48,14 @@ description: Bazı Cmd Komutları ve Açıklamaları
 
 {% endhighlight %}
 
+**Bazı Cmd Komutları**
+
+{% highlight yaml %}
+
+   >> tree /f    -> Bulunduğu klasörün ağaç yapısını gösterir.
+
+{% endhighlight %}
+
 
 Kolay gelsin.
 
