@@ -7,6 +7,16 @@ description: Bazı Cmd Komutları ve Açıklamaları
 ---
 
 
+**Bazı Cmd Komutları**
+
+{% highlight yaml %}
+
+   >> tree /f    -> Bulunduğu klasörün ağaç yapısını gösterir.
+
+{% endhighlight %}
+
+
+
 <table border='1'>
 	<tr>
 	<th>Komut</th>
@@ -48,13 +58,6 @@ description: Bazı Cmd Komutları ve Açıklamaları
 
 {% endhighlight %}
 
-**Bazı Cmd Komutları**
-
-{% highlight yaml %}
-
-   >> tree /f    -> Bulunduğu klasörün ağaç yapısını gösterir.
-
-{% endhighlight %}
 
 
 Kolay gelsin.
