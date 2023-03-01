@@ -22,26 +22,18 @@ Problemin asıl sebebi utf-8 probleminde kaynaklı. Ben kodlamamı **notpead ++*
 
 {% highlight yaml %}
 
-    	$data=array(
-		'ad'			=> $ad,
-		'soyad'			=> $soyad
-		);
-	echo json_encode($data);
+    $data=array('ad'=> $ad,'soyad'=> $soyad);
+    echo json_encode($data);
 
 {% endhighlight %}
 
 
 {% highlight yaml %}
 
-    	$arrContextOptions=array(
-				"ssl"=>array(
-					"verify_peer"=>false,
-					"verify_peer_name"=>false,
-				),
-			);  
+    $arrContextOptions=array("ssl"=>array("verify_peer"=>false,"verify_peer_name"=>false,),);  
 
-			$response = file_get_contents("https://www.ornek.com", false, stream_context_create($arrContextOptions));
-			echo $response;
+    $response = file_get_contents("https://www.ornek.com", false, stream_context_create($arrContextOptions));
+    echo $response;
 
 {% endhighlight %}
 
