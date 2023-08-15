@@ -15,13 +15,13 @@ Kod Yapısı
 {% highlight yaml %}
 
     $.ajax({
-        url: '{{URL::to("urunler/teknik-ozellikler")}}',
+        url: "",
         type: "GET",
-        data: "teknikId="+$("#teknik_sartname").val(),
-        success: function (msg) {	
-             $("#icerik").html(msg);		
-           }
-        });
+        data: "degisken="+$("#degisken").val(),
+        success: function (msg) {
+           $("#icerik").html(msg);
+          }
+    });
 
 {% endhighlight %}
 

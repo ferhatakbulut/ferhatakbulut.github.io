@@ -1,6 +1,6 @@
 ---
 layout: post
-title: json return null problemi
+title: C# veritabanı bağlantı ve insert işlemleri
 categories: [Genel,Çözüm,C#,Mysql,Veritabanı]
 tags: [ipucu,c#,mysql,veritabanı]
 fullview: true
