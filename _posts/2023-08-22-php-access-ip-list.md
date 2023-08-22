@@ -13,7 +13,6 @@ Kod Yapısı
 
 {% highlight yaml %}
 
-    $.ajax({
     $network = ip2long("10.15.0.0");
     $mask = ip2long("255.255.0.0");
     $ip = ip2long($_SERVER['REMOTE_ADDR']);
