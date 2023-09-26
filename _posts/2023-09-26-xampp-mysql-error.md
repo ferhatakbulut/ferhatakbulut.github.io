@@ -1,9 +1,9 @@
 ---
 layout: post
-title: xampp mysql hatası
+title: Xampp Mysql Hatası
 categories: [Genel,Çözüm,Xampp,Mysql,Hata]
 tags: [hata,xampp,mysql,hata]
-description: Error: MySQL shutdown unexpectedly. This may be due to a blocked port, missing dependencies, improper privileges, a crash, or a shutdown by another method
+description: Error: Mysql shutdown unexpectedly. This may be due to a blocked port missing dependencies improper privileges a crash, or a shutdown by another method.
 ---
 
 Xampp başlatıktan sonra mysql başlatınca böyle bir hata verirse yapmamız gereken eski dosyaları temizlemek olacak.
