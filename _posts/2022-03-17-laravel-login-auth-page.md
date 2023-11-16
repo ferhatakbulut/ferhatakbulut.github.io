@@ -11,6 +11,7 @@ kütüphanesinden yararlanarak hem güvenilir hemde hızlı bir şekilde oluştu
 {% highlight yaml %}
 
     composer require laravel/ui:^2.4
+    php artisan ui bootstrap --auth
     php artisan ui vue --auth
     npm install && npm run dev
     php artisan migrate
