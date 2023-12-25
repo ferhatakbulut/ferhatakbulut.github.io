@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Xampp Mysql Hatası
+title: Excel Yararlı Bilgiler
 categories: [Genel,Çözüm,Excel]
 tags: [excel]
 description: Excel de kullanabileceğiniz yararlı bilgiler
