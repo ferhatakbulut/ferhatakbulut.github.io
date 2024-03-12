@@ -3,9 +3,10 @@ layout: post
 title: javascript Yararlı Bilgiler
 categories: [Genel,Çözüm,Javascript]
 tags: [javascript]
-description: [Genel,Çözüm,Javascript]de kullanabileceğiniz yararlı bilgiler
+description: [Genel,Çözüm,Javascript]
 ---
 
+Javascript de kullanabileceğiniz yararlı bilgiler. 
 
 {% highlight yaml %}
 
