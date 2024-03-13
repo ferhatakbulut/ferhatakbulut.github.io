@@ -2,7 +2,7 @@
 layout: post
 title: Linux Bazı Klavye Kısayollar
 categories: [Linux]
-tags: [kısayollar]
+tags: [kisayollar]
 description: Linux bazı klavye kısayolları
 ---
 
