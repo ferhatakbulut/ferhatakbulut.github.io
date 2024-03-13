@@ -2,7 +2,7 @@
 layout: post
 title: Windows Bazı Klavye Kısayollar
 categories: [Windows]
-tags: [kısayollar]
+tags: [kisayollar]
 description: Windows bazı klavye kısayolları
 ---
 
