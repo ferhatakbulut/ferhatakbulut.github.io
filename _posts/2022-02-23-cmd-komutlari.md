@@ -16,6 +16,10 @@ description: Bazı Cmd Komutları ve Açıklamaları
    -> start explorer.exe               -> explorer.exe başlat
    -> taskkill /f /im chrome.exe       -> chrome.exe kapat 
    -> pskill \\10.99.0.19 chrome.exe   -> uzak bilgisayar chrome.exe kapat
+   
+   -> ipconfig /release                -> dhcp'den dagıtılan ip adresini geri bırakır.
+   -> ipconfig /renew                  -> dhcp'den dagıtılan yeni ip adresi almaya yarar.
+   -> ipconfig /flushdns               -> dns bellegini temizler.
 
 {% endhighlight %}
 
