@@ -67,6 +67,5 @@ description: Bazı Cmd Komutları ve Açıklamaları
 {% endhighlight %}
 
 
-
 Kolay gelsin.
 
