@@ -3,7 +3,7 @@ layout: post
 title: javascript Yararlı Bilgiler
 categories: [Genel,Çözüm,Javascript]
 tags: [javascript]
-description: [Genel,Çözüm,Javascript]
+description: Javascript de kullanabileceğiniz yararlı bilgiler.
 ---
 
 Javascript de kullanabileceğiniz yararlı bilgiler. 
