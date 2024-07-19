@@ -23,7 +23,7 @@ kullanamayız.
         var a=12;
         if(true)
         {
-	    console.log(a);
+            console.log(a);
         }
     }
 
@@ -32,7 +32,7 @@ kullanamayız.
         var a=12;
         if(true)
         {
-	    let b=12;
+            let b=12;
         }
         console.log(b) //burada hata alırız çünkü let ile tanımlandığı için
                       //sadece tanımalandığı süslü paranterler arası kullanılabilir.
