@@ -21,21 +21,21 @@ kullanamayız.
     function deneme()
     {
         var a=12;
-	if(true)
-	{
+        if(true)
+        {
 	    console.log(a);
-	}
+        }
     }
 
     function deneme()
     {
         var a=12;
-	if(true)
-	{
+        if(true)
+        {
 	    let b=12;
-	}
-	console.log(b) //burada hata alırız çünkü let ile tanımlandığı için
-		       //sadece tanımalandığı süslü paranterler arası kullanılabilir.
+        }
+        console.log(b) //burada hata alırız çünkü let ile tanımlandığı için
+                      //sadece tanımalandığı süslü paranterler arası kullanılabilir.
     }
 
 // Display data from the object:
