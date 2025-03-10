@@ -25,6 +25,19 @@ Kod Yapısı
 
 {% endhighlight %}
 
+{% highlight yaml %}
+
+    $.ajax({
+        url: "",
+        type: "POST",
+        data: "_token="+"{{ csrf_token() }}"+"degisken="+$("#degisken").val(),
+        success: function (msg) {
+           $("#icerik").html(msg);
+          }
+    });
+
+{% endhighlight %}
+
 
 
 Kolay gelsin.
