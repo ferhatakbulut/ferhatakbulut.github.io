@@ -47,7 +47,7 @@ Kod Yapısı
         data: {
 			id: $("#urun_kodu").val(),
 			_token: "{{ csrf_token() }}"
-		,
+		},
         success: function (msg) {
            $("#icerik").html(msg);
           }
@@ -55,12 +55,12 @@ Kod Yapısı
 
 {% endhighlight %}
 
-
+x yazan yere 2 tane { içerisinde csrf_token() yazılmalı 
 
 data: {
 			id: $("#urun_kodu").val(),
-			_token: "{{ csrf_token() }}"
-		,
+			_token: "x"
+		},
 
 Kolay gelsin.
 
