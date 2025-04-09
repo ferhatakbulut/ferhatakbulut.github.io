@@ -39,6 +39,23 @@ Kod Yapısı
 {% endhighlight %}
 
 
+{% highlight yaml %}
+
+    $.ajax({
+        url: "",
+        type: "POST",
+        data: {
+			id: $("#urun_kodu").val(),
+			_token: "{{ csrf_token() }}"
+		,
+        success: function (msg) {
+           $("#icerik").html(msg);
+          }
+    });
+
+{% endhighlight %}
+
+
 
 Kolay gelsin.
 
