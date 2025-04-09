@@ -57,6 +57,11 @@ Kod Yapısı
 
 
 
+data: {
+			id: $("#urun_kodu").val(),
+			_token: "{{ csrf_token() }}"
+		,
+
 Kolay gelsin.
 
 
